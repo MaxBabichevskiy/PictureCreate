@@ -1,0 +1,16 @@
+C:\Users\babic\source\repos\PictureCreator\PictureCreator\bin\Debug\PictureCreator.exe.config
+C:\Users\babic\source\repos\PictureCreator\PictureCreator\bin\Debug\PictureCreator.exe
+C:\Users\babic\source\repos\PictureCreator\PictureCreator\bin\Debug\PictureCreator.pdb
+C:\Users\babic\source\repos\PictureCreator\PictureCreator\obj\Debug\PictureCreator.csproj.AssemblyReference.cache
+C:\Users\babic\source\repos\PictureCreator\PictureCreator\obj\Debug\PictureCreator.csproj.SuggestedBindingRedirects.cache
+C:\Users\babic\source\repos\PictureCreator\PictureCreator\obj\Debug\MainWindow.g.cs
+C:\Users\babic\source\repos\PictureCreator\PictureCreator\obj\Debug\App.g.cs
+C:\Users\babic\source\repos\PictureCreator\PictureCreator\obj\Debug\PictureCreator_MarkupCompile.cache
+C:\Users\babic\source\repos\PictureCreator\PictureCreator\obj\Debug\PictureCreator_MarkupCompile.lref
+C:\Users\babic\source\repos\PictureCreator\PictureCreator\obj\Debug\MainWindow.baml
+C:\Users\babic\source\repos\PictureCreator\PictureCreator\obj\Debug\PictureCreator.g.resources
+C:\Users\babic\source\repos\PictureCreator\PictureCreator\obj\Debug\PictureCreator.Properties.Resources.resources
+C:\Users\babic\source\repos\PictureCreator\PictureCreator\obj\Debug\PictureCreator.csproj.GenerateResource.cache
+C:\Users\babic\source\repos\PictureCreator\PictureCreator\obj\Debug\PictureCreator.csproj.CoreCompileInputs.cache
+C:\Users\babic\source\repos\PictureCreator\PictureCreator\obj\Debug\PictureCreator.exe
+C:\Users\babic\source\repos\PictureCreator\PictureCreator\obj\Debug\PictureCreator.pdb
